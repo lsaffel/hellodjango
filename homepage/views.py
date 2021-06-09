@@ -6,7 +6,7 @@ class HomepageView(TemplateView):
 
     def get_context_data(self, **kwargs):
         context = super().get_context_data(**kwargs)
-        context['my_statement'] = 'Life is really super spectacular fantastic!'
+        context['my_statement'] = 'Life is fantastic!'
         return context
 
     def say_bye(self):
