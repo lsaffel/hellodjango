@@ -1,7 +1,7 @@
-EveryCheese
+HelloDjango
 ==============================
 
-The Ultimate Cheese Index!
+A simple Django project that displays a few lines of text on a web page [modified from the everycheese Readme
 
 ### Quick setup
 
@@ -11,12 +11,12 @@ The Ultimate Cheese Index!
 
 
 ```bash
-conda create python=3.8 -n everycheese
+conda create python=3.8 -n hellodjango
 ```
 2 - <a name="step-2">Activate the conda environment</a>
 
 ```bash
-conda activate everycheese
+conda activate hellodjango
 ```
 
 3 - <a name="step-3">Install the project basic dependencies and development dependencies</a>
