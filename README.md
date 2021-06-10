@@ -2,7 +2,7 @@ HelloDjango
 ==============================
 
 A simple Django project that displays a few lines of text on a web page [modified from the everycheese Readme]
-** add in the web site to go to to load the page **
+** add in the web site to go to to load the page **  http://127.0.0.1:8000
 
 ### Quick setup
 
